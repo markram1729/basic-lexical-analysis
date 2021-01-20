@@ -1,7 +1,6 @@
 											CS251
 											Assignment 1
-											11840610
-											Rishik Ram
+											
 Steps for Execution
 1. $flex assignment.l
 2. gcc lex.yy.c
